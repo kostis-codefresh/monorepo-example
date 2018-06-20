@@ -1,0 +1,7 @@
+organization=kostis-codefresh-github
+projectKey=nestjs-demo
+serverUrl=https://sonarcloud.io
+serverVersion=7.2.0.12953
+dashboardUrl=https://sonarcloud.io/dashboard/index/nestjs-demo
+ceTaskId=AWPfngFdv15GUGDTLLaB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWPfngFdv15GUGDTLLaB
